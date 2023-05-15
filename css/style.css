@@ -135,6 +135,7 @@ header
     display: flex;
     justify-content: center;
     align-items: center;
+    padding: 3px;
 }
 #piepag-tabla img{
     width: 5vh;
