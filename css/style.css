@@ -167,7 +167,10 @@ header
     {
         clip-path: circle(100% at center);        
     }
-    
+     #piepag
+    {
+        width: fit-content;
+    }
     
 }
 
