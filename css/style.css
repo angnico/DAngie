@@ -127,9 +127,7 @@ header
     width: 100%;
 }
 
-
 /*FOOTER*/
-
 #piepag-tabla
 {
     display: flex;
@@ -169,7 +167,8 @@ header
     }
      #piepag
     {
-       width: 80%;
+        font-size: small;
+        width: fit-content;
     }
     
 }
