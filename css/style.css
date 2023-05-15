@@ -172,9 +172,12 @@ header
     }
     #piepag
     {
-        padding: 3px;
-        display: flexbox;
-        justify-content: center;
+        padding:3px;
+        display: flex;
+        height: 100%;
+        width: 100%;
+        margin: 0 auto;
+        justify-content: space-between;
         align-items: center;
     }
 }
