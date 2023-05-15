@@ -170,7 +170,9 @@ header
     #piepag
     {
         box-sizing: content-box;
-        font-size: smaller;
+        justify-content: space-evenly;
+        display: flex;
+        flex-direction: column;
     }
 }
 
