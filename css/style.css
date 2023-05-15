@@ -167,9 +167,13 @@ header
     }
      #piepag
     {
-        font-size: x-small;
+        font-size: small;
         width: fit-content;
     }   
+     #piepag img
+    {
+        width: 4vw;
+    }
 }
 
 /*768PX*/
