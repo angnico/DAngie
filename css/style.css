@@ -172,7 +172,8 @@ header
     }
      #piepag
     {
-        box-sizing: border-box;        
+        padding: 2%;
+        width: 90%;
     }
 }
 
