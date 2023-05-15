@@ -140,7 +140,7 @@ header
 
 /*MEDIA MOBILE FIRST*/
 /*480PX*/
-@media screen and (max-width: 480px) and (min-width: 200px)
+@media screen and (max-width: 480px)
 {
     #sec-anim-vid iframe 
     {
@@ -169,8 +169,7 @@ header
     {
         font-size: small;
         width: fit-content;
-    }
-    
+    }   
 }
 
 /*768PX*/
