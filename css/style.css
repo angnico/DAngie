@@ -145,7 +145,7 @@ header
 }
 /*MEDIA MOBILE FIRST*/
 /*480PX*/
-@media screen and (max-width: 480px)
+@media screen and (max-width: 480px) and (min-width: 200px)
 {
     #sec-anim-vid iframe 
     {
@@ -169,6 +169,13 @@ header
     .nav-input:checked + .nav-menu
     {
         clip-path: circle(100% at center);        
+    }
+    #piepag
+    {
+        padding: 3px;
+        display: flexbox;
+        justify-content: center;
+        align-items: center;
     }
 }
 
