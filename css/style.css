@@ -173,11 +173,12 @@ header
     #piepag
     {
         padding: 3vw;
-        display: flex;
+        marging: 1 auto;
         height: 100%;
         width: 100%;
         justify-content: space-between;
         align-items: center;
+        
     }
 }
 
