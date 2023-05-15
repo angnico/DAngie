@@ -170,13 +170,9 @@ header
     {
         clip-path: circle(100% at center);        
     }
-    #piepag
+     #piepag
     {
-        padding: 3vw;       
-        justify-content: space-between;
-        align-items: center;
-        box-sizing: border-box;
-        
+        box-sizing: border-box;        
     }
 }
 
