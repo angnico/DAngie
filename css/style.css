@@ -169,7 +169,7 @@ header
     }
      #piepag
     {
-        width: 80%;
+        width:fit-content;
         box-sizing: content-box;
     }
 }
