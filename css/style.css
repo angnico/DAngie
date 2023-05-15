@@ -139,10 +139,7 @@ header
 #piepag-tabla img{
     width: 5vh;
 }
-#piepag
-{
-    padding: 3px;
-}
+
 /*MEDIA MOBILE FIRST*/
 /*480PX*/
 @media screen and (max-width: 480px) and (min-width: 200px)
@@ -172,8 +169,7 @@ header
     }
      #piepag
     {
-        padding: 2%;
-        width: 90%;
+
         box-sizing: border-box;
     }
 }
