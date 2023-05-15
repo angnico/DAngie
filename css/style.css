@@ -167,13 +167,10 @@ header
     {
         clip-path: circle(100% at center);        
     }
-     #piepag li
-    {
-       font-size: smaller;
-    }
     #piepag
     {
         box-sizing: content-box;
+        font-size: smaller;
     }
 }
 
